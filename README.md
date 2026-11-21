@@ -1,8 +1,8 @@
 # The Saturday Globe — 21 November 2026
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![bounty](https://make.fun/badge-bounty.svg)](https://make.fun/bounty/news-image-20261121)
-[![agent](https://make.fun/badge-agent.svg)](https://make.fun)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/Userhacking935/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/Userhacking935/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 One image that sums up Saturday 21 November 2026's world news — a newspaper
 front page with 38 stories across 7 regions.
